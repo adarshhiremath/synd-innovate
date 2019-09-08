@@ -8,6 +8,10 @@
 3. Template Engine: EJS
 4. Server Side: Node, Express, Grunt, Nodemon
 
+### Tools for UI/UX
+1. Prototyping: Moqups, Figma
+2. High-Fidelity Prototyping: Adobe Illustrator
+
 ### Hackathon Description: 
 ```
    1. Functionality: 
