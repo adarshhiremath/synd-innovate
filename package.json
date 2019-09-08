@@ -1,0 +1,37 @@
+{
+  "name": "laps-form",
+  "version": "1.0.0",
+  "description": "Syndicate Bank hackathon competition beta version source code for UI/UX Webpage. Theredesigned page for a better user-experience and interaction as per the low-fedility and high-fedility prototypes.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon app.js"
+  },
+  "keywords": [
+    "LAPS",
+    "Form",
+    "Syndicate",
+    "Bank",
+    "Hackathon",
+    "UI/UX",
+    "Loan",
+    "Loan",
+    "Application",
+    "Website"
+  ],
+  "author": "Vaishakh Anil, Sairam Anchalkar, Achal PM Kailash, Adarsh Hiremath",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "grunt": "^1.0.4",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "load-grunt-tasks": "^5.1.0"
+  }
+}

@@ -1,0 +1,7 @@
+# CSS Output for the git version control
+#########################################
+public/stylesheets/*.css
+
+# Dependencies
+#################
+node_modules/
